@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Automation Project**
 
-- 🌱 I’m currently learning **Data Structures and Algorithms using Python,java**
+- 🌱 I’m currently learning **Data Structures and Algorithms using Python**
 
 - 💬 Ask me about **python**
 
