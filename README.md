@@ -15,7 +15,7 @@
 
 - 🌐 portfolio **https://sainadhpragada.netlify.app/**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1lreYfAZUmtd_VIfYZYULLEutVCTMPlOn/view?usp=sharing](https://drive.google.com/file/d/1lreYfAZUmtd_VIfYZYULLEutVCTMPlOn/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1O87QrhhzDYZBdxdC0HTrFXV9iM5WoKYo/view?usp=sharing](https://drive.google.com/file/d/1O87QrhhzDYZBdxdC0HTrFXV9iM5WoKYo/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
