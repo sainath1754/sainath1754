@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sainath1754" alt="sainath1754" /></a> </p>
 
-- 🔭 I’m currently working on **Automation Project**
+- 🔭 I’m currently working on **Springboot Project**
 
 - 🌱 I’m currently learning **Data Structures and Algorithms using Python**
 
@@ -15,7 +15,7 @@
 
 - 🌐 portfolio **https://sainadhpragada.netlify.app/**
 
-- 📄 Know about my experiences : [Resume](https://drive.google.com/file/d/11x2DeizhYusQazK2KNwBuqBw9yn4CZvU/view?usp=sharing)
+- 📄 Know about my experiences : [Resume](https://drive.google.com/file/d/1XdWaaeQL57BlhzmdHMftvufKttNJL8xk/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
