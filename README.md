@@ -2,7 +2,7 @@
 
 # P.L.V.K. Sainath
 
-**Data & Automation Specialist · M.Tech Data Science @ SRM Institute**
+**Aspiring Data Scientist · M.Tech Data Science @ SRM Institute Of Science And Technology**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-sainathpragada-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/sainathpragada)
 [![Portfolio](https://img.shields.io/badge/Portfolio-sainadhpragada.netlify.app-black?style=flat-square&logo=netlify&logoColor=white)](https://sainadhpragada.netlify.app/)
